@@ -61,7 +61,7 @@ locations = {
 st.title("Interactive Route Planner")
 
 # Example Google Maps API key (replace with your own key)
-api_key = "AIzaSyBllsZECLKafDwsz5G4b9aDKlV1bg3txcM"
+api_key = "YourApiKey"
 
 # Sidebar for location selection
 selected_location = st.sidebar.selectbox(
